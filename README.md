@@ -1,25 +1,25 @@
-# Predicción de Enfermedades Cardiovasculares
+# Cardiovascular Disease Prediction
 
-Este proyecto aborda el desarrollo y la evaluación de modelos de aprendizaje automático con el objetivo de predecir enfermedades cardiovasculares utilizando un conjunto de datos preexistente.
+This project focuses on the development and evaluation of machine learning models to predict cardiovascular diseases using an existing dataset.
 
-## Objetivos
-- Analizar un conjunto de datos relacionado con factores de riesgo cardiovasculares.
-- Explorar y visualizar los datos para identificar relaciones significativas entre las variables.
-- Desarrollar modelos predictivos utilizando algoritmos de machine learning.
-- Evaluar el rendimiento de los modelos para identificar el más adecuado en términos de precisión y generalización.
+## Objectives
+- Analyze a dataset related to cardiovascular risk factors.
+- Explore and visualize the data to identify significant relationships between variables.
+- Develop predictive models using machine learning algorithms.
+- Evaluate model performance to identify the most suitable one in terms of accuracy and generalization.
 
-## Contenido
-1. **Carga y preprocesamiento de datos**:
-   - Utilización de pandas y NumPy para la limpieza y estructuración del conjunto de datos.
-   - Exploración inicial para identificar patrones y valores atípicos.
+## Content
+1. **Data Loading and Preprocessing**:
+   - Use pandas and NumPy for cleaning and structuring the dataset.
+   - Perform an initial exploration to identify patterns and outliers.
 
-2. **Visualización**:
-   - Creación de gráficos con seaborn y Plotly para analizar las relaciones entre las variables y mejorar la comprensión de los datos.
+2. **Visualization**:
+   - Create charts with seaborn and Plotly to analyze relationships between variables and enhance data understanding.
 
-3. **Modelado predictivo**:
-   - Implementación de modelos de aprendizaje automático como regresión logística, Random Forest, entre otros.
-   - Validación de los modelos mediante técnicas como validación cruzada y métricas de evaluación.
+3. **Predictive Modeling**:
+   - Implement machine learning models such as logistic regression, Random Forest, and others.
+   - Validate models using techniques like cross-validation and evaluation metrics.
 
-4. **Resultados y conclusiones**:
-   - Comparación de los modelos en términos de precisión, recall, F1-score y otras métricas relevantes.
-   - Discusión de hallazgos clave y posibles mejoras futuras.
+4. **Results and Conclusions**:
+   - Compare models based on accuracy, recall, F1-score, and other relevant metrics.
+   - Discuss key findings and potential future improvements.
